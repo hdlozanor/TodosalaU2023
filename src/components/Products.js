@@ -28,7 +28,7 @@ const Products = () => {
 
   return (
     <>
-      <h1>Pagina de productos v2</h1>
+      <h1>Pagina de productos 2023</h1>
       {products}
     </>
   );
